@@ -122,10 +122,11 @@ brew zsh-completions
 
 # cask apps 
 cask alfred
+cask carbon-copy-cloner
 cask coteditor
 cask cyberduck
 cask dropbox
-cask evernote
+# cask evernote
 cask github
 cask google-chrome
 cask google-drive
@@ -134,8 +135,8 @@ cask google-japanese-ime
 cask handbrake
 cask ifunbox
 cask java
-cask kobito
-cask lastpass
+# cask kobito
+# cask lastpass
 cask macvim
 cask onyx
 cask papers
@@ -148,8 +149,9 @@ cask the-unarchiver
 cask todoist
 cask virtualbox
 cask vlc
+cask vmware-fusion
 cask wineskin-winery
-cask xtrafinder
+# cask xtrafinder
 
 # install quicklook plugin
 cask qlcolorcode qlstephen qlmarkdown quicklook-json quicklook-csv betterzipql
