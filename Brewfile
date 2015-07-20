@@ -164,17 +164,17 @@ brew r
 cask rstudio
 
 # App Store applications
-appstore App Language Chooser
+# appstore App Language Chooser
 # appstore GarageBand
 # appstore iMovie
 # appstore iPhoto
-appstore Keynote
+# appstore Keynote
 # appstore LINE
-appstore Numbers
-appstore Pages
-appstore Pixelmator 
+# appstore Numbers
+# appstore Pages
+# appstore Pixelmator 
 # appstore Pocket
-appstore Xcode
+# appstore Xcode
 
 # Other commands
 echo other commands
