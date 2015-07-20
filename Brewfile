@@ -11,6 +11,11 @@ brew brew-cask
 tap rcmdnk/file
 brew brew-file
 
+# Encfs+Dropbox
+brew tap homebrew/fuse
+brew cask install osxfuse
+brew install encfs
+
 # Other Homebrew packages
 brew asciidoc
 brew asciinema
