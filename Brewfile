@@ -13,7 +13,7 @@ brew brew-file
 
 # Encfs+Dropbox
 brew tap homebrew/fuse
-brew cask install osxfuse
+brew cask osxfuse
 brew install encfs
 
 # Other Homebrew packages
@@ -133,7 +133,7 @@ cask cyberduck
 cask dropbox
 # cask evernote
 cask github
-cask google-chrome
+# cask google-chrome
 cask google-drive
 cask google-hangouts
 cask google-japanese-ime
@@ -146,7 +146,7 @@ cask macvim
 cask onyx
 cask papers
 cask perian
-cask readcube
+# cask readcube
 cask shiftit
 cask skitch
 cask spideroak
@@ -169,6 +169,7 @@ brew r
 cask rstudio
 
 # App Store applications
+# appstore 1Password
 # appstore App Language Chooser
 # appstore GarageBand
 # appstore iMovie
