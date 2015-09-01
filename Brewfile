@@ -6,6 +6,8 @@ before echo before
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+tap caskroom/versions
+
 
 ## rcmdnk/file
 tap rcmdnk/file
