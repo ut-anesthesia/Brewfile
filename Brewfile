@@ -152,7 +152,7 @@ cask quicktime-player7
 # cask readcube
 cask shiftit
 cask skitch
-cask spideroak
+cask spideroakone
 cask the-unarchiver
 cask todoist
 cask tripmode
@@ -163,8 +163,8 @@ cask wineskin-winery
 # cask xtrafinder
 
 # Encfs+Dropbox
-brew tap homebrew/fuse
-brew cask osxfuse
+tap homebrew/fuse
+cask install osxfuse
 brew encfs
 
 # install quicklook plugin
