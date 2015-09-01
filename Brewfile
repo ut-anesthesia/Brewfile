@@ -152,6 +152,7 @@ cask skitch
 cask spideroak
 cask the-unarchiver
 cask todoist
+cask tripmode
 cask virtualbox
 cask vlc
 cask vmware-fusion
