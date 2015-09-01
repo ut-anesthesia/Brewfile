@@ -157,7 +157,7 @@ cask wineskin-winery
 # cask xtrafinder
 
 # Encfs+Dropbox
-brew tap homebrew/fuse
+# brew tap homebrew/fuse
 brew cask osxfuse
 brew encfs
 
