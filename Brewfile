@@ -51,6 +51,7 @@ brew go
 brew gobject-introspection
 brew gtk+
 brew harfbuzz
+brew hicolor-icon-theme
 brew htop-osx
 brew hub --HEAD
 brew hugo
