@@ -54,6 +54,7 @@ brew hub --HEAD
 brew hugo
 brew icu4c
 brew imagemagick
+brew intltool
 brew isl
 brew jbig2dec
 brew jp2a
@@ -87,6 +88,7 @@ brew nspr
 brew openssl
 brew pandoc
 brew pango
+brew pcre
 brew peco
 brew pixman
 brew pkg-config
@@ -96,6 +98,7 @@ brew pygobject
 brew pygtk --with-libglade
 brew python
 brew readline
+brew rlog
 brew shellcheck
 brew sl
 brew socat
