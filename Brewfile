@@ -11,11 +11,6 @@ brew brew-cask
 tap rcmdnk/file
 brew brew-file
 
-# Encfs+Dropbox
-brew tap homebrew/fuse
-brew cask osxfuse
-brew install encfs
-
 # Other Homebrew packages
 brew asciidoc
 brew asciinema
@@ -131,7 +126,7 @@ cask carbon-copy-cloner
 cask coteditor
 cask cyberduck
 cask dropbox
-# cask evernote
+cask evernote
 cask github
 # cask google-chrome
 cask google-drive
@@ -143,9 +138,11 @@ cask java
 # cask kobito
 # cask lastpass
 cask macvim
+cask mendeley-desktop
 cask onyx
 cask papers
 cask perian
+cask quicktime-player7
 # cask readcube
 cask shiftit
 cask skitch
@@ -158,6 +155,11 @@ cask vlc
 cask vmware-fusion
 cask wineskin-winery
 # cask xtrafinder
+
+# Encfs+Dropbox
+brew tap homebrew/fuse
+brew cask osxfuse
+brew encfs
 
 # install quicklook plugin
 cask qlcolorcode qlstephen qlmarkdown quicklook-json quicklook-csv betterzipql
