@@ -133,7 +133,7 @@ cask coteditor
 cask cyberduck
 cask dropbox
 cask evernote
-cask github
+cask github-desktop
 # cask google-chrome
 cask google-drive
 cask google-hangouts
