@@ -6,8 +6,39 @@ before echo before
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-tap caskroom/versions
+cask alfred
+cask carbon-copy-cloner
+cask coteditor
+cask github-desktop
+cask handbrake
+cask ifunbox
+cask java
+cask macvim
+cask onyx
+cask osxfuse
+cask perian
+cask qlcolorcode
+cask rstudio
+cask skitch
+cask the-unarchiver
+cask todoist
+cask tripmode
+cask virtualbox
+cask vlc
+cask vmware-fusion
+cask wineskin-winery
+cask xquartz
 
+## caskroom/versions
+tap caskroom/versions
+cask quicktime-player7
+
+## homebrew/fuse
+tap homebrew/fuse
+brew encfs
+
+## homebrew/science
+tap homebrew/science
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -81,7 +112,7 @@ brew macvim --HEAD --with-lua
 brew makedepend
 brew maven
 brew mercurial
-brew mobile-shell --with-check
+brew mobile-shell
 brew mpfr
 brew multitail
 brew mysql
@@ -100,6 +131,7 @@ brew py2cairo
 brew pygobject
 brew pygtk --with-libglade
 brew python
+brew r
 brew readline
 brew rlog
 brew shellcheck
@@ -125,66 +157,15 @@ brew xvid
 brew xz
 brew zsh-completions
 
-
-# cask apps 
-cask alfred
-cask carbon-copy-cloner
-cask coteditor
-# cask cyberduck
-# cask dropbox
-# cask evernote
-cask github-desktop
-# cask google-chrome
-# cask google-drive
-# cask google-hangouts
-# cask google-japanese-ime
-cask handbrake
-cask ifunbox
-cask java
-# cask kobito
-# cask lastpass
-cask macvim
-cask onyx
-cask perian
-cask quicktime-player7
-# cask shiftit
-cask skitch
-cask the-unarchiver
-cask todoist
-cask tripmode
-cask virtualbox
-cask vlc
-cask vmware-fusion
-cask wineskin-winery
-
-# Encfs+Dropbox
-tap homebrew/fuse
-cask install osxfuse
-brew encfs
-
-# install quicklook plugin
-cask qlcolorcode qlstephen qlmarkdown quicklook-json quicklook-csv betterzipql
-
-# R言語
-brew gcc
-tap homebrew/science
-cask xquartz
-brew r
-cask rstudio
-
 # App Store applications
-# appstore 1Password
-# appstore App Language Chooser
-# appstore GarageBand
-# appstore iMovie
-# appstore iPhoto
-# appstore Keynote
-# appstore LINE
-# appstore Numbers
-# appstore Pages
-# appstore Pixelmator 
-# appstore Pocket
-# appstore Xcode
+appstore 1Password
+appstore App Language Chooser
+appstore Keynote
+appstore Kobito
+appstore Numbers
+appstore Pages
+appstore Pixelmator
+appstore Xcode
 
 # Other commands
 echo other commands
