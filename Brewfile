@@ -130,29 +130,25 @@ brew zsh-completions
 cask alfred
 cask carbon-copy-cloner
 cask coteditor
-cask cyberduck
-cask dropbox
-cask evernote
+# cask cyberduck
+# cask dropbox
+# cask evernote
 cask github-desktop
 # cask google-chrome
-cask google-drive
-cask google-hangouts
-cask google-japanese-ime
+# cask google-drive
+# cask google-hangouts
+# cask google-japanese-ime
 cask handbrake
 cask ifunbox
 cask java
 # cask kobito
 # cask lastpass
 cask macvim
-cask mendeley-desktop
 cask onyx
-cask papers
 cask perian
 cask quicktime-player7
-# cask readcube
-cask shiftit
+# cask shiftit
 cask skitch
-cask spideroakone
 cask the-unarchiver
 cask todoist
 cask tripmode
@@ -160,7 +156,6 @@ cask virtualbox
 cask vlc
 cask vmware-fusion
 cask wineskin-winery
-# cask xtrafinder
 
 # Encfs+Dropbox
 tap homebrew/fuse
