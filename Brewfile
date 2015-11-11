@@ -84,7 +84,7 @@ brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
 brew htop-osx
-brew hub --HEAD
+brew hub
 brew hugo
 brew icu4c
 brew imagemagick
@@ -108,7 +108,7 @@ brew libxml2
 brew little-cms2
 brew lua
 brew mackup
-brew macvim --HEAD --with-lua
+brew macvim --with-lua
 brew makedepend
 brew maven
 brew mercurial
@@ -143,10 +143,10 @@ brew spidermonkey
 brew sqlite
 brew stow
 brew thefuck
-brew tig --HEAD --with-docs
-brew tmux --HEAD
+brew tig --with-docs
+brew tmux
 brew tree
-brew vim --HEAD --with-lua
+brew vim --with-lua
 brew w3m
 brew wdiff
 brew wget --with-iri --with-debug
