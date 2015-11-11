@@ -160,6 +160,7 @@ brew zsh-completions
 # App Store applications
 appstore 1Password
 appstore App Language Chooser
+appstore Hivebench
 appstore Keynote
 appstore Kobito
 appstore Numbers
