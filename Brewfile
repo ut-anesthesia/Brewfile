@@ -20,7 +20,6 @@ cask perian
 cask qlcolorcode
 cask rstudio
 cask skitch
-cask the-unarchiver
 cask todoist
 cask tripmode
 cask virtualbox
