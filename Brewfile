@@ -165,6 +165,7 @@ appstore Kobito
 appstore Numbers
 appstore Pages
 appstore Pixelmator
+appstore The Unarchiver
 appstore Xcode
 
 # Other commands
