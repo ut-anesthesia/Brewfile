@@ -3,24 +3,30 @@ before echo before
 
 # tap repositories and their packages
 
-## caskroom/cask
+tap argon/mas
+brew mas
+
 tap caskroom/cask
-brew brew-cask
 cask alfred
+cask android-file-transfer
 cask carbon-copy-cloner
+cask cooviewer
 cask coteditor
+cask findings
 cask github-desktop
 cask handbrake
 cask ifunbox
 cask java
 cask macvim
+cask mendeley-desktop
 cask onyx
 cask osxfuse
-cask perian
+cask papers
 cask qlcolorcode
+cask readcube
 cask rstudio
 cask skitch
-cask todoist
+cask the-unarchiver
 cask tripmode
 cask virtualbox
 cask vlc
@@ -28,29 +34,16 @@ cask vmware-fusion
 cask wineskin-winery
 cask xquartz
 
-## caskroom/versions
 tap caskroom/versions
-cask quicktime-player7
 
-## homebrew/fuse
-tap homebrew/fuse
-brew encfs
-
-## homebrew/science
-tap homebrew/science
-
-## rcmdnk/file
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew asciidoc
 brew asciinema
 brew atk
 brew autoconf
 brew automake
-brew bash
 brew bash-completion
+brew bash
 brew bazaar
 brew bdw-gc
 brew boost
@@ -63,8 +56,8 @@ brew colordiff
 brew cscope
 brew ctags
 brew dash
-brew docbook
 brew docbook-xsl
+brew docbook
 brew ffmpeg
 brew fontconfig
 brew freetype
@@ -82,8 +75,9 @@ brew gobject-introspection
 brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
+brew highlight
 brew htop-osx
-brew hub
+brew hub --HEAD
 brew hugo
 brew icu4c
 brew imagemagick
@@ -107,7 +101,7 @@ brew libxml2
 brew little-cms2
 brew lua
 brew mackup
-brew macvim --with-lua
+brew macvim --with-lua --HEAD
 brew makedepend
 brew maven
 brew mercurial
@@ -127,10 +121,10 @@ brew pixman
 brew pkg-config
 brew protobuf
 brew py2cairo
+brew pyenv
 brew pygobject
 brew pygtk --with-libglade
 brew python
-brew r
 brew readline
 brew rlog
 brew shellcheck
@@ -142,10 +136,10 @@ brew spidermonkey
 brew sqlite
 brew stow
 brew thefuck
-brew tig --with-docs
-brew tmux
+brew tig --with-docs --HEAD
+brew tmux --HEAD
 brew tree
-brew vim --with-lua
+brew vim --with-lua --HEAD
 brew w3m
 brew wdiff
 brew wget --with-iri --with-debug
@@ -156,17 +150,29 @@ brew xvid
 brew xz
 brew zsh-completions
 
+tap homebrew/fuse
+brew encfs
+
+tap homebrew/science
+brew r
+
+tap rcmdnk/file
+brew brew-file
+
 # App Store applications
-appstore 1Password
-appstore App Language Chooser
-appstore Hivebench
-appstore Keynote
-appstore Kobito
-appstore Numbers
-appstore Pages
-appstore Pixelmator
-appstore The Unarchiver
-appstore Xcode
+appstore 443987910 1Password
+appstore 451732904 App Language Chooser
+appstore 409222199 Cyberduck
+appstore 959923353 Hivebench
+appstore 409183694 Keynote
+appstore 896624060 Kobito
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 407963104 Pixelmator
+appstore 408519351 SeaSky Video Converter
+appstore 803453959 Slack
+appstore 905944937 Textwell
+appstore 497799835 Xcode
 
 # Other commands
 echo other commands
