@@ -168,6 +168,7 @@ appstore 409222199 Cyberduck
 appstore 959923353 Hivebench
 appstore 409183694 Keynote
 appstore 896624060 Kobito
+appstore 784801555 Microsoft OneNote
 appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 407963104 Pixelmator
