@@ -17,6 +17,7 @@ cask github-desktop
 cask handbrake
 cask ifunbox
 cask java
+cask kindle
 cask macvim
 cask mendeley-desktop
 cask onyx
@@ -26,6 +27,7 @@ cask qlcolorcode
 cask readcube
 cask rstudio
 cask skitch
+cask slack
 cask the-unarchiver
 cask tripmode
 cask virtualbox
@@ -170,7 +172,6 @@ appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 407963104 Pixelmator
 appstore 408519351 SeaSky Video Converter
-appstore 803453959 Slack
 appstore 905944937 Textwell
 appstore 497799835 Xcode
 
