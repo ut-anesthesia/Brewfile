@@ -7,33 +7,22 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask alfred
 cask android-file-transfer
-cask carbon-copy-cloner
-cask cooviewer
 cask coteditor
-cask findings
 cask github-desktop
 cask handbrake
-cask ifunbox
 cask java
-cask kindle
 cask macvim
 cask mendeley-desktop
 cask onyx
 cask osxfuse
-cask papers
 cask qlcolorcode
 cask readcube
 cask rstudio
 cask skitch
 cask slack
 cask the-unarchiver
-cask tripmode
-cask virtualbox
 cask vlc
-cask vmware-fusion
-cask wineskin-winery
 cask xquartz
 
 tap caskroom/versions
@@ -162,19 +151,9 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password
-appstore 451732904 App Language Chooser
-appstore 409222199 Cyberduck
-appstore 959923353 Hivebench
-appstore 409183694 Keynote
-appstore 896624060 Kobito
-appstore 784801555 Microsoft OneNote
-appstore 409203825 Numbers
-appstore 409201541 Pages
-appstore 407963104 Pixelmator
-appstore 408519351 SeaSky Video Converter
-appstore 905944937 Textwell
-appstore 497799835 Xcode
+# appstore 409222199 Cyberduck
+# appstore 896624060 Kobito
+# appstore 784801555 Microsoft OneNote
 
 # Other commands
 echo other commands
