@@ -92,7 +92,6 @@ brew libxml2
 brew little-cms2
 brew lua
 brew mackup
-brew macvim --with-lua --HEAD
 brew makedepend
 brew maven
 brew mercurial
@@ -149,11 +148,6 @@ brew r
 
 tap rcmdnk/file
 brew brew-file
-
-# App Store applications
-# appstore 409222199 Cyberduck
-# appstore 896624060 Kobito
-# appstore 784801555 Microsoft OneNote
 
 # Other commands
 echo other commands
